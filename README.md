@@ -15,7 +15,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/chamodith sandeepa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamodith sandeepa" height="30" width="40" /></a>
 <a href="https://fb.com/hkcs prime" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hkcs prime" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ch-pctechtips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ch-pctechtips" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ch-pctechtips" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ch-pctechtips" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hkcsprme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hkcsprme" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@hkcsprme" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@hkcsprme" height="30" width="40" /></a>
 
