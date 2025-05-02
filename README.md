@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Y1S2 -OOP - Online examination](https://github.com/IT24100500/Online-Examinations-and-result-management-system.git)
 
-- 🌱 I’m currently learning **CTF,BUGBOUNTY,HACKATHON,AI,ML,**
+- 🌱 I’m currently learning **CTF,BUGBOUNTY,HACKATHON,AI,ML,JAVA**
 
 - 👯 I’m looking to collaborate on [Online Exam management system](https://github.com/IT24100500/Online-Examinations-and-result-management-system.git)
 
