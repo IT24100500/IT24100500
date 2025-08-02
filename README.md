@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=it24100500&label=Profile%20views&color=0e75b6&style=flat" alt="it24100500" /> </p>
 
-- 🔭 I’m currently working on [Y1S2 -OOP - Online examination](https://github.com/IT24100500/Online-Examinations-and-result-management-system.git)
+- 🔭 I’m currently working on [Y2S1 -SE2030 - Web Based reality show Voting System](https://github.com/IT24100500/Online-Examinations-and-result-management-system.git)
 
 - 🌱 I’m currently learning **CTF,BUGBOUNTY,HACKATHON,AI,ML,JAVA**
 
